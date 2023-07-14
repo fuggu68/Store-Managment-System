@@ -1,5 +1,6 @@
 # Store-Managment-System
 how to install
+
 1.Install Pytone latest version
 
 2.create viurtual environment
