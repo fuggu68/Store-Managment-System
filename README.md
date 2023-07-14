@@ -10,7 +10,7 @@ how to install
 
    pip install -r requirmet.txt
 	
-4. login using username =storekeeper password=123456 as storekeeper
-5. 
-               username = storemanager password =123456 storemanager
+login using
+5.  username =storekeeper password=123456 as storekeeper
+6.             username = storemanager password =123456 storemanager
                
